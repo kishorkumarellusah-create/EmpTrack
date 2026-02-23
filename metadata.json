@@ -1,0 +1,5 @@
+{
+  "name": "CricScore: Live Cricket Scorer",
+  "description": "A simple and intuitive app to track cricket scores, overs, and recent balls.",
+  "requestFramePermissions": []
+}
